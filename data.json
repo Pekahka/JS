@@ -1,0 +1,37 @@
+{
+    "audio": [
+        {
+            "audioName": "Borderline",
+            "audioArtist": "Tame Impala",
+            "audioCover": "img/borderline.jpg",
+            "audioFile": "audio/borderline-tame-impala.mp3",
+            "backGround": "#70311F",
+            "buttonGround": "#6E301E"
+        },
+        {
+            "audioName": "Patience",
+            "audioArtist": "Tame Impala",
+            "audioCover": "img/patience.jpg",
+            "audioFile": "audio/patience-tame-impala.mp3",
+            "backGround": "#62440f",
+            "buttonGround": "#533c04"
+        },
+        {
+            "audioName": "Here Lucian remix",
+            "audioArtist": "Allesia Cara",
+            "audioCover": "img/here.jpg",
+            "audioFile": "audio/here-lucian-remix-alessia-cara.mp3",
+            "backGround": "#bac5c9",
+            "buttonGround": "#bbc7c7"
+            
+        },
+        {
+            "audioName": "Tokyo drift",
+            "audioArtist": "Teriyaki Boyz",
+            "audioCover": "img/tokyo_drift.jpg",
+            "audioFile": "audio/Tokyo Drift(Fast Furious)-Teriyaki-Boyz.mp3",
+            "backGround": "#ecebe7",
+            "buttonGround": "#d9d9d1"
+        }
+    ]
+}
